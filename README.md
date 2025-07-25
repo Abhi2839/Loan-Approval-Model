@@ -4,7 +4,7 @@ This project predicts whether a loan should be approved or not using machine lea
 
 ## 📂 Dataset
 
-- **Source**: Kaggle - [Loan Prediction Dataset](https://www.kaggle.com/)
+- **Source**: Kaggle - [Loan Prediction Dataset]((https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset))
 - **Features Used**:
   - Income per annum
   - Loan amount
