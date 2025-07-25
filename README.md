@@ -58,5 +58,4 @@ This project predicts whether a loan should be approved or not using machine lea
 
 ---
 
-## 📁 Project Structure
 
