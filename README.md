@@ -52,7 +52,6 @@ This project predicts whether a loan should be approved or not using machine lea
 
 ## 📌 Notes
 
-- This version **does not include Aadhaar or PAN card verification**
 - No UI or deployment tools (like **Streamlit** or **FastAPI**) are used
 - Project focuses on backend logic and analysis
 
