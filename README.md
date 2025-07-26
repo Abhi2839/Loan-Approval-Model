@@ -57,6 +57,7 @@ This project predicts whether a loan should be approved or not using machine lea
 - Project focuses on backend logic and analysis
 
 Linkedin:https://www.linkedin.com/in/abhey-garg-032b53289/
+
 Model colab file:https://colab.research.google.com/drive/1xoeSnmbQiaF6_e9AD1Zdspk9vZcBwkjt#scrollTo=NIMu9-uXx3yT
 
 ---
